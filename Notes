@@ -1,0 +1,4 @@
+* Måste lägga glut32.dll i mappen Debug för att den ska köra
+* Måste lägga till
+  #pragma once
+på toppen av MyButton.h
